@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
@@ -20,6 +20,6 @@ order: 4
 🌟 Whether I'm diving into complex coding challenges, guiding ambitious projects, or fostering a vibrant tech community, I'm unwaveringly driven by the pursuit of excellence. If you're seeking a driven leader with a knack for transforming ideas into achievements, let's connect and embark on a journey of innovation together!
 
 ## You can see my resume below!
-<iframe src="../assets/about/EricKhumbataResume.pdf" width="100%" height="500px"></iframe>
+<iframe src="../assets/about/EricKhumbataResume.pdf" width="100%" height="1100px"></iframe>
 
 
