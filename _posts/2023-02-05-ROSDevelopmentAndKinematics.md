@@ -318,14 +318,14 @@ To view the CSV file for Exercise 2 please click [here](https://drive.google.com
 My lab partner, Cameron, also made these really awesome visuals with the use of Google Colab to be able to get a feel for what the data means! 
 
 
-![](../assets/adventures-in-duckietown/images_ex2/E1compressed.gif)
+![](E1compressed.gif)
 <figcaption align = "center"><b>Fig.3: Data visualization for straight line task</b></figcaption>
 
 <br>
 
 Note for this below graph, this represents where the robot *thinks* it is. There has been no PID implemented so we expect some error seen in the real world vs the simulation.
 
-![](../assets/adventures-in-duckietown/images_ex2/E2compressed.gif)
+![](E2compressed.gif)
 <figcaption align = "center"><b>Fig.4: Data visualization for part 2</b></figcaption>
 
 <br>
