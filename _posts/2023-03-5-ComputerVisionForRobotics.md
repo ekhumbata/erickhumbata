@@ -104,11 +104,11 @@ error = (x + (sizeratio*y)) - goal) * pixelscale
 $$
 
 where:
-- \\(x\\) = the left most side of the closest dotted line
-- \\(y\\) = the top of closest dotted line divided by two
-- \\(sizeratio\\) = handles distance distortion. It creats a linear function describing how close the dotted line is vs how close the Duckiebot should be to it. This address the vanishing point problem. 
-- \\(goal\\) = where the bot wants to be. Represented by a blue vertical line in the image
-- \\(pixelscale\\) = scales the error down to account for large error in pixels realative to a small error in angle
+- \\(x\\) is the left most side of the closest dotted line
+- \\(y\\) is the top of closest dotted line divided by two
+- \\(sizeratio\\) handles distance distortion. It creates a linear function describing how close the dotted line is vs. how close the Duckiebot should be to it. This addresses the vanishing point problem
+- \\(goal\\) is where the bot wants to be. Represented by a blue vertical line in the image
+- \\(pixelscale\\) scales the error down to account for large error in pixels realative to a small error in angle
 
 <br>
 
@@ -204,7 +204,7 @@ It can, but it is highly recommended not to. Issue visualizing in RViz will occu
 
 **Show the newly generated transform tree graph, what is the new root/parent frame?**
 
-<iframe src="newTransformTree.pdf" width="75%" height="500px"></iframe>
+<iframe src="../../assets/adventures-in-duckietown/images_ex3/newTransformTree.pdf" width="75%" height="500px"></iframe>
 <figcaption align = "center"><b>Fig.3: New transform tree</b></figcaption>
 
 <br>
