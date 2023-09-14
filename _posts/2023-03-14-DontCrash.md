@@ -37,7 +37,7 @@ This didn't really work.
 We got a lot of the items working seperately but couldn't really connect all of them together. We were able to do the following tasks individually:
 - Lane following and stopping at the intersections (vid.1 & vid.2)
    - We detected the HSV color values from the red line on the mat and color masked them to filter out any other values. We then used that to determine where we need to execute a stop for the Duckiebot based on the y value of the contour.
-   - We used the same lane following node that we did in [Lab 3](https://ekhumbata.github.io/Adventures-in-Duckietown/exercise3.html)
+   - We reused the same lane following node from the computer vision project
 - Turning at an intersection while using LED turn signals (vid.3 & vid.4)
   - To set an angle for the bot we turned off the PID for a short time period and set the angle for the bot to point in a general direction. This brought the correct lane into the FOV in order for us to lane follow off of it.
 - Keeping a safe distance behind, while following, the leader bot (vid.5)
@@ -91,7 +91,6 @@ The PID for following the leader bot also didn't work fantastic. The follower bo
 
 
 ## References
----
 [Lab Manual](https://eclass.srv.ualberta.ca/pluginfile.php/9319824/mod_resource/content/1/Exercise%204.pdf)
 
 [dt-core Library](https://github.com/duckietown/dt-core)
