@@ -181,7 +181,6 @@ This results in a reduction of error of ~9.9% vs. the first pass.
 <br>
 
 ## Part 2
----
 ### Multilayer Perceptron
 
 <br>
@@ -221,7 +220,6 @@ Adding a dropout layer reduces the correlation between nodes within a layer, and
 <br>
 
 ## Part 3
----
 ### Implement It!
 
 <br>
@@ -256,9 +254,8 @@ Our implemented strategy worked fairly well. Our strategy was unreliable at some
 <figcaption align = "center"><b>Vid.3: Blooper</b></figcaption>
 
 
-
 ## References
----
+
 [Lab Manual](https://eclass.srv.ualberta.ca/pluginfile.php/9335412/mod_resource/content/1/Exercise%205.pdf)
 
 [dt-core Library](https://github.com/duckietown/dt-core)
