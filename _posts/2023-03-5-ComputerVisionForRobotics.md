@@ -157,7 +157,7 @@ Adding the landmarks made it significantly easier! Being able to visualize where
 
 **Show the generated transform tree graph, what is the root/parent frame?**
 
- <iframe src="originalTransformTree.pdf" width="75%" height="500px"></iframe>
+ <iframe src="../../assets/adventures-in-duckietown/images_ex3/originalTransformTree.pdf" width="100%" height="1000px"></iframe>
 <figcaption align = "center"><b>Fig.2: Original transform tree</b></figcaption>
 
 <br>
@@ -204,7 +204,7 @@ It can, but it is highly recommended not to. Issue visualizing in RViz will occu
 
 **Show the newly generated transform tree graph, what is the new root/parent frame?**
 
-<iframe src="../../assets/adventures-in-duckietown/images_ex3/newTransformTree.pdf" width="75%" height="500px"></iframe>
+<iframe src="../../assets/adventures-in-duckietown/images_ex3/newTransformTree.pdf" width="100%" height="1000px"></iframe>
 <figcaption align = "center"><b>Fig.3: New transform tree</b></figcaption>
 
 <br>
