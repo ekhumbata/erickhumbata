@@ -1,7 +1,9 @@
 ---
 title: ROS Development and Kinematics
 categories: [Projects, Robotics]
-tags: [robotics, ros, kinematics]     # TAG names should always be lowercase
+tags: [robotics, ros, kinematics]     
+img_path: /assets/adventures-in-duckietown/images_ex2/
+
 ---
 # ROS Development and Kinematics
 
@@ -236,7 +238,7 @@ Spinning was a pretty complex task; thankfully my lab partner Cameron was super 
 **Question: How did you keep track of the angle rotated?**
 After messing around with some of the forward and inverse kinematics, we decided to act like physics students and draw out our problem. Lo and behold, those physics people are really onto something. A diagram of what we did can be seen here:
 
-![](../assets/adventures-in-duckietown/images_ex2/robotLab2Diagram.png)
+![](robotLab2Diagram.png)
 <figcaption align = "center"><b>Fig.2: Diagram to find tick rotation</b></figcaption>
 
 <br>
@@ -340,7 +342,7 @@ Finally, another challenge I had wasn't technical related at all, it was just bu
 ## References
 [Lab Manual](https://eclass.srv.ualberta.ca/pluginfile.php/9248065/mod_resource/content/4/Exercise2%20%281%29.pdf)
 
-[ROS Tutorials](http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29)
+[ROS Tutorials](https://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29)
 
 [dt-core Library](https://github.com/duckietown/dt-core)
 
