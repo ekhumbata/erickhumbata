@@ -46,7 +46,7 @@ $$\begin{equation}
 $$
 
 Where:
-- $\textcolor{brown}{i_1} = 2$
+- $$\textcolor{brown}{i_1} = 2$$
 - $\textcolor{brown}{i_2} = 3$
 - $\textcolor{lightblue}{w_1} = 0.12$
 - $\textcolor{lightblue}{w_2} = 0.23$
