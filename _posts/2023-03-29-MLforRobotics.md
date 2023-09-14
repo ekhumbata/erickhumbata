@@ -26,8 +26,8 @@ $$\begin{equation}
 \end{bmatrix}
 \cdot
 \begin{bmatrix}
-\textcolor{lightblue}{0.23} & \textcolor{orange}{0.10}
 \textcolor{lightblue}{0.12} & \textcolor{orange}{0.13} \\
+\textcolor{lightblue}{0.23} & \textcolor{orange}{0.10} \\
 \end{bmatrix}
 = 
 \begin{bmatrix}
@@ -46,7 +46,7 @@ $$\begin{equation}
 $$
 
 Where:
-- <span style="color:brown">\\(x\\)</span> = 2
+- <span style="color:brown">\\(x\\)</span> \\(= 3\\)
 - $\textcolor{brown}{i_2} = 3$
 - $\textcolor{lightblue}{w_1} = 0.12$
 - $\textcolor{lightblue}{w_2} = 0.23$
