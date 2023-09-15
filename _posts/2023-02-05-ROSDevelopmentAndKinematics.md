@@ -302,7 +302,8 @@ Sadly, no. Due to errors like slippage and wheel drift, errors in measurement be
 
 <br>
 
-[![Duckiebot Demo!](https://youtu.be/MI9soe-GJZQ)](https://youtu.be/MI9soe-GJZQ)
+<iframe width="560" height="315" src="https://youtu.be/MI9soe-GJZQ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figcaption align = "center"><b>Vid.1: Video for demo</b></figcaption>
 
 
 **Save your odometry (in the world frame) to your rosbag and shut down. Display the bag file information in a way of your choice and include your written report.**
