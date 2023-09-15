@@ -5,8 +5,6 @@ tags: [robotics, ros, kinematics, computer vision, pid, opencv, apriltags, auton
 img_path: /assets/adventures-in-duckietown/images_ex3/
 
 ---
-# Computer Vision for Robotics
-
 ## TL;DR
 
 In this lab we accomplished a lot! We used OpenCV to be able to read and ID apriltags which we then used to help move the Duckiebot using lane following and landmark recognition. We also utilized RViz to view where the Duckiebot thought it was in the robot frame compared to the world frame as well visualize the previous apriltag detections.

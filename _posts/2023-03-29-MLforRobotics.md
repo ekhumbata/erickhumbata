@@ -3,8 +3,6 @@ title: ML for Robotics
 categories: [Projects, Robotics]
 tags: [robotics, ros, kinematics, computer vision, pid, opencv, apriltags, autonomous driving, ml, machine learning, python]     
 ---
-# ML for Robotics
-
 ## TL;DR
 
 MNIST is good, but maybe not the best when things are moving and at angles. In this lab, we implemented machine learning on the duckiebot to detect numbers while (almost always) following the rules of the duckietown road.

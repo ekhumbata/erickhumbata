@@ -5,8 +5,6 @@ tags: [robotics, ros, kinematics,python]
 img_path: /assets/adventures-in-duckietown/images_ex2/
 
 ---
-# ROS Development and Kinematics
-
 ## TL;DR
 Going forward in a straight line is difficult. Rotating is pretty hard too. Now lets put them together with LED lights and do a circle as well. This was a pretty great experiment and was super eye opening about the kinematics of robotics.
 

@@ -4,8 +4,6 @@ categories: [Projects, Robotics]
 tags: [robotics, ros, kinematics, computer vision, pid, opencv, apriltags, autonomous driving, ml, machine learning, python]   
 img_path: /assets/adventures-in-duckietown/images_finalProject/
 ---
-# Autonomous Driving with Duckietown
-
 ## TL;DR
 
 Driver's Ed is over! Time to put our bot to the test and see if it can pass the driving exam! We ended up graduating with 105/120 points so safe to say that's a pass for our bot!

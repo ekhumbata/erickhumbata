@@ -4,8 +4,6 @@ categories: [Projects, Robotics]
 tags: [robotics, ros, kinematics, computer vision, pid, opencv, apriltags, autonomous driving, python]     
 img_path: /assets/adventures-in-duckietown/images_ex4/
 ---
-# Don't Crash! Tailing Behaviour
-
 ## TL;DR
 
 In this "catch up" lab we aimed to string some concepts together including lane following, autonomous safe taliling behavior and PID. In Matt Taylor's words: "This should be a fairly easy lab; should only take about three hours." Spoiler alert, it did not.  :D
