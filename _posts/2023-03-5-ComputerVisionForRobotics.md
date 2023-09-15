@@ -1,7 +1,7 @@
 ---
 title: Computer Vision for Robotics
 categories: [Projects, Robotics]
-tags: [robotics, ros, kinematics, computer vision, pid, opencv, apriltags, autonomous driving]     
+tags: [robotics, ros, kinematics, computer vision, pid, opencv, apriltags, autonomous driving, python]     
 img_path: /assets/adventures-in-duckietown/images_ex3/
 
 ---

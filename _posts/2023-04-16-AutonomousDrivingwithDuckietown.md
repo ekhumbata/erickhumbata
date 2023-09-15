@@ -1,7 +1,7 @@
 ---
 title: Autonomous Driving with Duckietown
 categories: [Projects, Robotics]
-tags: [robotics, ros, kinematics, computer vision, pid, opencv, apriltags, autonomous driving, ml, machine learning]   
+tags: [robotics, ros, kinematics, computer vision, pid, opencv, apriltags, autonomous driving, ml, machine learning, python]   
 img_path: /assets/adventures-in-duckietown/images_finalProject/
 ---
 # Autonomous Driving with Duckietown

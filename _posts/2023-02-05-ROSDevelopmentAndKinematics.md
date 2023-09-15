@@ -1,7 +1,7 @@
 ---
 title: ROS Development and Kinematics
 categories: [Projects, Robotics]
-tags: [robotics, ros, kinematics]     
+tags: [robotics, ros, kinematics,python]     
 img_path: /assets/adventures-in-duckietown/images_ex2/
 
 ---
