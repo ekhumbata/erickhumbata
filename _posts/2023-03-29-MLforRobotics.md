@@ -1,7 +1,8 @@
 ---
 title: ML for Robotics
 categories: [Projects, Robotics]
-tags: [robotics, ros, kinematics, computer vision, pid, opencv, apriltags, autonomous driving, ml, machine learning, python]     
+tags: [robotics, ros, kinematics, computer vision, pid, opencv, apriltags, autonomous driving, ml, machine learning, python] 
+published: false    
 ---
 ## TL;DR
 
